@@ -32,7 +32,7 @@ We would like you to send us a link to a git repository that we can access with 
 
 The whole exercise should not take more than an hour to implement.
 
-NOTE: I had to fix small issue in the performance so the test could work, 
+NOTE: I had to fix small issue in the  initial tests implementation, it is in SearchEngineTestsBase class  for AssertSizeCounts and AssertColorCounts methods,  so the performance test could work correctly 
 
 The performance of my implementation is very fast it takes:
     4 ms for 50,000 shirts
